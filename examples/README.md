@@ -38,4 +38,4 @@ Bacon ipsum dolor amet tri-tip bresaola beef ribs rump swine pork belly tongue t
 
 ----
 
-[sipgate.io](https://www.sipgate.io) | [#sipgateio](https://twitter.com/sipgateio)
+[sipgate.io](https://www.sipgate.io) | [@sipgateio](https://twitter.com/sipgateio)

@@ -1,4 +1,4 @@
-<img src="https://www.sipgatedesign.com/wp-content/uploads/wort-bildmarke_positiv_2x.jpg" alt="Google Inc. logo" title="Google" align="right" height="75" width="133"/>
+<img src="https://www.sipgatedesign.com/wp-content/uploads/wort-bildmarke_positiv_2x.jpg" alt="Google Inc. logo" title="Google" align="right" height="112" width="200"/>
 
 # repository name
 > Bacon ipsum dolor amet tri-tip bresaola beef.
